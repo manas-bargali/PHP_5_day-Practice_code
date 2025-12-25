@@ -1,7 +1,7 @@
 
 
 <?php
-   echo "Hello, I am learning PHP! \n";
+   echo "Hello, I am learning PHP!";
 
    echo "Welcome to basics of PHP ";
    ?>
